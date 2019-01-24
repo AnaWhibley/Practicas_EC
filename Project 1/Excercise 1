@@ -27,5 +27,3 @@ N: .word 8
 .org 0x100
 VECTOR: .skip 32
 .end
-
-
